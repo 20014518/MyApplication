@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title">Title</string>
+    <string name="enter_name_of_hobbies">Enter name of hobbies</string>
+    <string name="description">Description</string>
+    <string name="enter_description_of_hobbies">Enter description of hobbies</string>
+    <string name="rating_of_hobbies">Rating of hobbies</string>
+    <string name="insert">insert</string>
+    <string name="show">show</string>
+</resources>
